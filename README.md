@@ -1,3 +1,3 @@
 # File-handling
 
-A simple node app which copies files from one folder to another using streams.
+A simple node app which copy files from one folder to another using streams.
